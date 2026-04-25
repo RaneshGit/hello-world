@@ -33,7 +33,7 @@
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
         <configuration>
-          <source>3.15.0</source>
+          <source>3.9.15</source>
           <target>3.9.15</target>
         </configuration>
       </plugin>
@@ -100,7 +100,7 @@
 
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
-          <version>3.15.0</version>
+          <version>3.9.15</version>
         </plugin>
 
         <plugin>
